@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "title": "hp updated",
+      "price": "500",
+      "id": 2
+    },
+    {
+      "title": "jam",
+      "price": "100",
+      "id": 3
+    }
+  ]
+}
